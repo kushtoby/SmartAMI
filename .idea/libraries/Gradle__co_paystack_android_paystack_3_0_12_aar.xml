@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: co.paystack.android:paystack:3.0.12@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0c7d09842f8d3ee26526f2e2d7a6306b/paystack-3.0.12/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0c7d09842f8d3ee26526f2e2d7a6306b/paystack-3.0.12/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0c7d09842f8d3ee26526f2e2d7a6306b/paystack-3.0.12/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/co.paystack.android/paystack/3.0.12/c145c37d2ef994e5db2481a976fe5238a3fee1af/paystack-3.0.12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
