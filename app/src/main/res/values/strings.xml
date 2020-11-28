@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SMART AMI</string>
+    <string name="button">ENTER</string>
+    <string name="voltage_input">Voltage Input (V) </string>
+    <string name="current">Current (A) </string>
+    <string name="power_consumed">Power (kW) </string>
+    <string name="energy_consumed">Energy Consumed (kWs) </string>
+    <string name="energy_remaining">Energy Available (kWs) </string>
+    <string name="time"> Time:  </string>
+    <string name="payment_check">PAYMENT ACTIVITY</string>
+    <string name="monitor_check">MONITOR YOUR USAGE</string>
+    <string name="cardNumET">Enter your card number</string>
+    <string name="payAmountET">Enter amount in Naira</string>
+    <string name="purchaseValue">Purchase Value</string>
+    <string name="cardMonET">Enter your card month</string>
+    <string name="cardYearET">Enter your card expiry year</string>
+    <string name="cvvET">Enter your CVV</string>
+
+</resources>

@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\OLUWATOBI KUSHIMO\\Documents\\SMARTAMI\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\OLUWATOBI KUSHIMO\\.gradle\\caches\\transforms-2\\files-2.1\\0c7d09842f8d3ee26526f2e2d7a6306b\\paystack-3.0.12\\res\\values-w820dp-v13\\values-w820dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,64",
+                        "endOffsets": "108,173"
+                    }
+                }
+            ]
+        }
+    ]
+}
